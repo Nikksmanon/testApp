@@ -96,5 +96,21 @@
           }
         ]
       }
+    ],
+    "buttonWrapper":[
+        {
+            "indexId": "1",
+            "label": "submit",
+            "indexDesc": "submit",
+            "htmlControlType": "button",
+            "cssClassName": "button"
+        },
+        {
+            "indexId": "2",
+            "label": "cancel",
+            "indexDesc": "cancel",
+            "htmlControlType": "button",
+            "cssClassName": "button"
+          }
     ]
   }
