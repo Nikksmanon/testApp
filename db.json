@@ -9,49 +9,56 @@
             "label": "firstname",
             "indexDesc": "First Name",
             "htmlControlType": "textbox",
-            "cssClassName": "form-control"
+            "cssClassName": "form-control",
+            "initialValue": ""
           },
           {
             "indexId": "2",
             "label": "lastname",
             "indexDesc": "Last Name",
             "htmlControlType": "textbox",
-            "cssClassName": "form-control"
+            "cssClassName": "form-control",
+            "initialValue": ""  
           },
           {
             "indexId": "3",
             "label": "address",
             "indexDesc": "Address",
             "htmlControlType": "textarea",
-            "cssClassName": "form-control"
+            "cssClassName": "form-control",
+            "initialValue": ""  
           },
           {
             "indexId": "4",
             "label": "city",
             "indexDesc": "Address",
             "htmlControlType": "textarea",
-            "cssClassName": "form-control"
+            "cssClassName": "form-control",
+            "initialValue": ""  
           },
           {
             "indexId": "5",
             "label": "pincode",
             "indexDesc": "Address",
             "htmlControlType": "textarea",
-            "cssClassName": "form-control"
+            "cssClassName": "form-control",
+            "initialValue": ""  
           },
           {
             "indexId": "6",
             "label": "areacode",
             "indexDesc": "Area",
             "htmlControlType": "textarea",
-            "cssClassName": "form-control"
+            "cssClassName": "form-control",
+            "initialValue": ""  
           },
           {
             "indexId": "7",
             "label": "location",
             "indexDesc": "Location",
             "htmlControlType": "textarea",
-            "cssClassName": "form-control"
+            "cssClassName": "form-control",
+            "initialValue": ""  
           }
         ]
       },
