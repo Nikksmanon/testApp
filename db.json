@@ -61,6 +61,23 @@
             "initialValue": ""  
           }
         ]
+      },{
+        "name":"bookmark-outline",
+        "label":"CALCULATOR",
+        "formData":[
+          {
+            "indexId": "1",
+            "label": "number1",
+            "indexDesc": "Number 1",
+            "htmlControlType": "number",
+            "cssClassName": "form-control"
+          },{
+            "indexId": "2",
+            "label": "number2",
+            "indexDesc": "Number 2",
+            "htmlControlType": "number",
+            "cssClassName": "form-control"
+          }]  
       },
       {
         "name": "bookmark-outline",
